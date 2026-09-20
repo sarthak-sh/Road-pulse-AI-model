@@ -1,0 +1,7 @@
+yolo_env/
+runs/
+*.pt
+dataset/
+__pycache__/
+*.mp4
+*.avi
